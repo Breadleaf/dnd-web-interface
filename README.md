@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```bash
-go build ./cmd/main.go -o app
+go build -o app ./cmd/main.go
 ./app
 ```
 
